@@ -15,6 +15,7 @@
 | Alteração na documentação    | `@todos`                           |
 | Criação de página para iniciantes | `@todos`  |
 | Gravação do último vídeo relacionado ao projeto | `@todos` |
+| Criação de Slide no Google docs apresentando o sistema | `@italoGostoso` |
 
 ### O que foi feito
 |Atividade                                           | Atribuição                         |
@@ -24,6 +25,9 @@
 | Alteração na documentação    | `@todos`                           |
 | Criação de página para iniciantes | `@todos`  |
 | Gravação do último vídeo relacionado ao projeto | `@todos` |
+| Criação de Slide no Google docs apresentando o sistema | `@italoGostoso` |
+
+
 ### O que não foi feito
 
 > **Nota:** O grupo conseguiu realizar com sucesso tudo o que havia sido planejado. Para a parte final.
