@@ -1,7 +1,7 @@
-# Cantina do Seu mineiro
+# Cantina do IFBA
 
 # Justificativa:
-O projeto "Cantina do Seu Mineiro", foi criado com o intuito de organizar a cantina de uma escola, bem como otimizar o tempo e possibilitar a reserva do almoço de forma mais organizada e prática. 
+O projeto "Cantina do IFBA", foi criado com o intuito de organizar a cantina de uma escola, bem como otimizar o tempo e possibilitar a reserva do almoço de forma mais organizada e prática. 
 Acreditamos que a criação de um projeto para a cantina do Seu Mineiro seja uma ótima forma de buscar estruturação, para evitar problemas que afetem os alunos e o comerciante.
 
 # Descrição do produto:
