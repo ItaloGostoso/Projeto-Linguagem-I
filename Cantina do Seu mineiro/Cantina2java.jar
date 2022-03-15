@@ -1,0 +1,49 @@
+package cantina;
+import java.util.Scanner;
+import java.io.IOException;
+import java.util.Random;
+
+public class comer{
+     private static String Nome;
+     private static String Classificação;
+     private static String Pedido;
+     private static int Pergunta;
+     private static String Pagamento;
+
+  public static void main(String[] args) {
+         Scanner Comida = new Scanner(System.in);
+         do{
+           System.out.print("\nBem vindo a cantina do IFBA, para que eu possa atende-lo(a) da melhor forma, pedimos que digite o seu nome: ");
+           Nome = Comida.nextLine(); 
+}while(Nome.length() < 2 || Nome.length() > 30); 
+          {
+           System.out.print("\nMaravilha," + Nome);System.out.print(" que belo nome, agora me fala você é Aluno(a) ou servidor(ar)? ");
+           Classificação = Comida.nextLine();
+         }
+           System.out.print("\nPerfeito " + Nome); System.out.print(",agora digite o seu pedido: ");
+         Pedido = Comida.nextLine();
+  		
+  		System.out.println("\nAgora " + Nome +  "Para finalizar, me fala qual será a sua forma de pagamento:  A vista, Transferencia ou PIX?");
+  		Pagamento = Comida.nextLine();
+       
+        System.out.println("\nNome:" + Nome);
+        System.out.println("Voce é:" + Classificação);
+        System.out.println("Seu pedido:" + Pedido);
+        System.out.println("Pagamento:" + Pagamento);   
+         Random gerador = new Random();
+         for (int i = 0; i < 10; i++) {
+         System.out.println("O numero do seu pedido é:" + gerador.nextInt(45));
+        System.out.print("\nEntão," + Nome);
+		System.out.print(" para eu ter certeza do seu pedido, peço que voce confirme as informações que aparecem na tela, Digite '1' para confirmar e '2' para cancelar: ");		
+		Pergunta = Comida.nextInt();
+		if (Pergunta == 1) {
+			System.out.println("\nQue maravilha! muito obrigado, aguarde um instate e em breve voc receberá o seu pedido.");
+			
+		Pergunta = Comida.nextInt();
+	}	else {
+			System.out.println("\nQue pena, mas eu fiquei muito agradecido em te atender " + Nome);
+			System.out.print("nossa relação não acaba aqui, quando desejar estarei aqui =).");
+		}
+  }
+}
+}
