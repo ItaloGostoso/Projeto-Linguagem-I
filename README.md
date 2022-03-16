@@ -19,3 +19,9 @@ Anailsa: Programadora III, auxiliar na elaboração de perguntas.(@AnailsaStyles
 Lívia: Programadora IV, componente responsável por elaborar a documentação, compor a conceituação e gerenciar a estrutura do código.(@liviabahia)
 
 Tauany: Programadora V, componente responsável por desenvolver o documento, organizando o conceito e a praticidade do projeto. (@tauanyrodrigues)
+
+
+# vídeo de apresentação do projeto:
+
+https://youtu.be/0CapfbdOd7c
+
